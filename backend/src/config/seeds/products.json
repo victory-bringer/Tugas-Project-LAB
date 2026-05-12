@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Lenovo ThinkPad E14 Gen 7",
+    "category": "Business",
+    "description": "Reliable business laptop with Intel Core Ultra processor, 14-inch WUXGA display, and military-grade durability. Features spill-resistant keyboard and enterprise security with Windows 11 Pro.",
+    "price": 19499000,
+    "rating": 4.8,
+    "sold": 1247,
+    "img": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?w=500&h=500&fit=crop"
+  },
+  {
+    "name": "ASUS ZenBook 14 OLED UX3405",
+    "category": "Ultrabook",
+    "description": "Premium ultrabook featuring a stunning 14-inch 3K OLED display and Intel Core Ultra processor. Weighs just 1.2kg with all-day battery life for professionals on the move.",
+    "price": 17999000,
+    "rating": 4.6,
+    "sold": 892,
+    "img": "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?w=500&h=500&fit=crop"
+  },
+  {
+    "name": "Apple MacBook Air M3 13-inch",
+    "category": "Ultrabook",
+    "description": "Apple M3 chip with 8-core CPU and up to 10-core GPU, 13.6-inch Liquid Retina display. Fanless design, 18-hour battery life, and seamless integration with Apple ecosystem.",
+    "price": 18499000,
+    "rating": 4.9,
+    "sold": 3421,
+    "img": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=500&h=500&fit=crop"
+  },
+  {
+    "name": "Dell XPS 13 Plus 9340",
+    "category": "Ultrabook",
+    "description": "Ultra-premium laptop with edge-to-edge keyboard, invisible haptic trackpad, and Intel Core Ultra 7. Features a 13.4-inch InfinityEdge display in a CNC-machined aluminum chassis.",
+    "price": 24999000,
+    "rating": 4.2,
+    "sold": 456,
+    "img": "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?w=500&h=500&fit=crop"
+  },
+  {
+    "name": "HP Pavilion 14 Ryzen 5",
+    "category": "Student",
+    "description": "Affordable everyday laptop powered by AMD Ryzen 5 with 16GB RAM and 512GB SSD. Perfect for students and light productivity with a full-HD 14-inch display.",
+    "price": 9799000,
+    "rating": 3.8,
+    "sold": 2134,
+    "img": "https://images.unsplash.com/photo-1484788984921-03950022c9ef?w=500&h=500&fit=crop"
+  },
+  {
+    "name": "Acer Swift Go 14 Intel Core Ultra",
+    "category": "Ultrabook",
+    "description": "AI-ready ultrabook with Intel Core Ultra 7 and dedicated NPU for Copilot+ features. 14-inch OLED touchscreen, fingerprint reader, and under 1.3kg weight.",
+    "price": 13499000,
+    "rating": 4.1,
+    "sold": 768,
+    "img": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=500&h=500&fit=crop"
+  },
+  {
+    "name": "MSI Modern 15 B13M",
+    "category": "Business",
+    "description": "Slim business laptop with 13th Gen Intel Core i5, 15.6-inch full-HD display, and 180-degree hinge. Includes multiple ports and Thunderbolt 4 for productivity.",
+    "price": 10299000,
+    "rating": 3.9,
+    "sold": 543,
+    "img": "https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?w=500&h=500&fit=crop"
+  },
+  {
+    "name": "Lenovo IdeaPad Slim 3i",
+    "category": "Student",
+    "description": "Budget-friendly laptop with Intel Core i3, 8GB RAM, and 256GB SSD. Lightweight 14-inch design with rapid charging and privacy shutter on webcam.",
+    "price": 7999000,
+    "rating": 4.3,
+    "sold": 4287,
+    "img": "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?w=500&h=500&fit=crop"
+  },
+  {
+    "name": "ASUS ROG Zephyrus G14 2024",
+    "category": "Gaming",
+    "description": "Compact gaming powerhouse with AMD Ryzen 9 and NVIDIA RTX 4070. Features a 14-inch 3K OLED 120Hz display with the iconic AniMe Matrix LED lid design.",
+    "price": 32999000,
+    "rating": 4.7,
+    "sold": 312,
+    "img": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?w=500&h=500&fit=crop"
+  },
+  {
+    "name": "Apple MacBook Pro M4 14-inch",
+    "category": "Creator",
+    "description": "Pro-grade laptop with Apple M4 chip, 14.2-inch Liquid Retina XDR display, and up to 22-hour battery life. Ideal for video editing, 3D rendering, and developer workflows.",
+    "price": 28999000,
+    "rating": 4.9,
+    "sold": 1876,
+    "img": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=500&h=500&fit=crop"
+  },
+  {
+    "name": "HP Victus 15 Gaming Ryzen 7",
+    "category": "Gaming",
+    "description": "Entry-level gaming laptop with AMD Ryzen 7, NVIDIA RTX 4050, and 144Hz refresh rate display. Dual-fan cooling keeps performance stable during long gaming sessions.",
+    "price": 14999000,
+    "rating": 4.4,
+    "sold": 1654,
+    "img": "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=500&h=500&fit=crop"
+  },
+  {
+    "name": "Lenovo LOQ 15 RTX 4050",
+    "category": "Gaming",
+    "description": "Mid-range gaming laptop with Intel Core i5-13450HX and RTX 4050 GPU. Features a 15.6-inch 144Hz display, RGB backlit keyboard, and Lenovo AI Engine+.",
+    "price": 15999000,
+    "rating": 4.2,
+    "sold": 1123,
+    "img": "https://images.unsplash.com/photo-1593640408182-31c70c8268f5?w=500&h=500&fit=crop"
+  },
+  {
+    "name": "Acer Predator Helios Neo 16",
+    "category": "Gaming",
+    "description": "High-performance gaming laptop with Intel Core i7-14650HX, RTX 4060, and 16-inch WQXGA 165Hz display. Advanced cooling with dual turbo fans and liquid metal thermal compound.",
+    "price": 22499000,
+    "rating": 4.6,
+    "sold": 589,
+    "img": "https://images.unsplash.com/photo-1624705002806-5d72df19c3ad?w=500&h=500&fit=crop"
+  },
+  {
+    "name": "MSI Katana 15 RTX 4060",
+    "category": "Gaming",
+    "description": "Samurai-inspired gaming laptop with Intel Core i7 and NVIDIA RTX 4060 8GB. Features MSI Cooler Boost 5 technology and a 144Hz full-HD display for competitive gaming.",
+    "price": 18999000,
+    "rating": 4.0,
+    "sold": 734,
+    "img": "https://images.unsplash.com/photo-1595434091143-b375ced5fe5c?w=500&h=500&fit=crop"
+  },
+  {
+    "name": "Dell Inspiron 14 5440",
+    "category": "Student",
+    "description": "Versatile everyday laptop with Intel Core i5, 16GB RAM, and a sleek aluminum lid. 14-inch full-HD+ display with ComfortView Plus for reduced eye strain.",
+    "price": 11299000,
+    "rating": 3.6,
+    "sold": 421,
+    "img": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?w=500&h=500&fit=crop"
+  },
+  {
+    "name": "Axioo Mybook Hype 5",
+    "category": "Student",
+    "description": "Indonesian-made budget laptop with Intel Celeron, 4GB RAM, and 256GB SSD. Affordable choice for students with a 14-inch HD display and Windows 11 Home.",
+    "price": 5499000,
+    "rating": 3.7,
+    "sold": 3156,
+    "img": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=500&h=500&fit=crop"
+  },
+  {
+    "name": "Huawei MateBook D14 2024",
+    "category": "Student",
+    "description": "Stylish mid-range laptop with Intel Core i5-13420H, 16GB RAM, and 14-inch 1080p FullView display. Supports Huawei Super Device for seamless cross-device workflow.",
+    "price": 10999000,
+    "rating": 4.1,
+    "sold": 678,
+    "img": "https://images.unsplash.com/photo-1484788984921-03950022c9ef?w=500&h=500&fit=crop"
+  },
+  {
+    "name": "Samsung Galaxy Book4 Pro",
+    "category": "Ultrabook",
+    "description": "Premium ultrabook with Intel Core Ultra 7, 14-inch Dynamic AMOLED 2X 3K display, and Galaxy ecosystem integration. Ultra-thin 11.6mm design at just 1.23kg.",
+    "price": 21499000,
+    "rating": 4.5,
+    "sold": 845,
+    "img": "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?w=500&h=500&fit=crop"
+  },
+  {
+    "name": "Microsoft Surface Laptop 7",
+    "category": "2-in-1",
+    "description": "Copilot+ PC with Snapdragon X Elite processor, 13.8-inch PixelSense touchscreen, and 20-hour battery life. Built-in AI features powered by dedicated NPU.",
+    "price": 23999000,
+    "rating": 4.8,
+    "sold": 967,
+    "img": "https://images.unsplash.com/photo-1629131726692-1accd0c53ce0?w=500&h=500&fit=crop"
+  },
+  {
+    "name": "LG Gram 14 2024",
+    "category": "Ultrabook",
+    "description": "Ultra-lightweight laptop at just 999g with Intel Core Ultra 7 and 14-inch WUXGA IPS display. MIL-STD-810H certified durability with 22-hour battery life.",
+    "price": 19999000,
+    "rating": 4.3,
+    "sold": 412,
+    "img": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=500&h=500&fit=crop"
+  }
+]

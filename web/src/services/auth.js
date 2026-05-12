@@ -1,0 +1,26 @@
+import { HTTP_POST, APPLICATION_JSON } from "../constants/http";
+import { BASE_URL } from "./api";
+
+export const login = async (email, password) => {
+  const res = await fetch(`${BASE_URL}/auth/login`, {
+    method: HTTP_POST,
+    headers: { "Content-Type": APPLICATION_JSON },
+    body: JSON.stringify({ email, password }),
+  });
+
+  if (!res.ok) throw new Error("Login failed");
+
+  return res.json();
+};
+
+export const register = async (name, email, password) => {
+  const res = await fetch(`${BASE_URL}/auth/register`, {
+    method: HTTP_POST,
+    headers: { "Content-Type": APPLICATION_JSON },
+    body: JSON.stringify({ name, email, password }),
+  });
+
+  if (!res.ok) throw new Error("Register failed");
+
+  return res;
+};
